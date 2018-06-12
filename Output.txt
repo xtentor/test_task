@@ -1,0 +1,21 @@
+1:
+
+/home/axe/PycharmProjects/aws2/venv/bin/python /home/axe/PycharmProjects/aws2/connect.py
+
+Instance ID        | Status | Checked |  IP address   
+
+i-07ded92534a1a5b3a running   Offline   34.247.190.164
+i-07922d0a5926620b3 running   Offline   34.243.28.28
+i-0c100ec4a26ec78ed running   Offline   34.240.135.18
+
+Process finished with exit code 0
+
+
+/home/axe/PycharmProjects/aws2/venv/bin/python /home/axe/PycharmProjects/aws2/connect.py
+Delete - ami-3216294b
+Actual -ami-7fdbdd06
+Actual -ami-9af2f2e3
+Actual -ami-c62429bf
+Delete - ami-d2c1feab
+
+Process finished with exit code 0
